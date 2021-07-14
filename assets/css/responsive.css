@@ -1,0 +1,48 @@
+@media screen and (max-width: 920px) {
+    .container {
+        padding: 1rem;
+    }
+    .d-grid.player-grid {
+        grid-gap: 2rem;
+    }
+    
+    .top-right-item.w-50 {
+        width: 100%;
+    }
+    
+    .d-flex.justify-content-around {
+        flex-wrap: wrap;
+    }
+    .d-grid.player-grid {
+        display: flex;
+    }
+    
+    .top-left-item.text-center.w-50 {
+        width: 100%;
+        padding-bottom: 4rem;
+    }
+    
+    
+    .review.w-100.d-flex {
+        flex-wrap: wrap;
+    }
+    
+    .content-left.w-50.bg-third.text-center {
+        width: 100%;
+        padding-bottom: 3rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        /* padding-bottom: 2rem; */
+    }
+    
+    .content-right.w-50 {
+        width: 100%;
+    }
+    
+    .footballers-section {
+        padding: 1rem;
+    }
+    img.img-legend {
+        width: 49%;
+    }
+  }
